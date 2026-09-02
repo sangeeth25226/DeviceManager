@@ -31,9 +31,8 @@ graph TD
 - [x] Resolve Gradle Sync Errors
 - [x] Fix Environment Conflicts (ANDROID_USER_HOME)
 - [x] Connect to Remote Repository
-- [ ] **Next Up**: Implement Device Entity & DAO
-- [ ] **UI**: Create Device List Screen
-- [ ] **Feature**: Add Device Dialog
+- [x] **Implement Device List UI** (Mock Data)
+- [ ] **Next Up**: Implement Device Entity & DAO (Room Database)
 
 ## 📂 Repository Stats
 - **Total Files**: ~50
