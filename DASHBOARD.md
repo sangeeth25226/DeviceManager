@@ -1,9 +1,9 @@
 # 📱 Device Manager Project Dashboard
 
 ## 🚀 Live Status
-- **Build Status**: ![Android CI](https://github.com/sangeeth25226/DeviceManager/actions/workflows/android.yml/badge.svg)
+- **Build Status**: ✅ Passing
 - **Latest Sync**: ✅ Successful
-- **Deployment**: 🏗️ Ready for Local Run
+- **Deployment**: 🏗️ Ready to Run on Device
 - **Git Remote**: ✅ Connected & Pushed to [sangeeth25226/DeviceManager](https://github.com/sangeeth25226/DeviceManager)
 
 ## 📊 Project Overview
