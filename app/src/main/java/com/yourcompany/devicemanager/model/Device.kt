@@ -1,7 +1,12 @@
 package com.yourcompany.devicemanager.model
 
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity(tableName = "devices")
 data class Device(
-    val id: Int,
+    @PrimaryKey(autoGenerate = true)
+    val id: Int = 0,
     val name: String,
     val type: String,
     val status: String,
